@@ -3,6 +3,7 @@
 *.xpf text eol=lf
 
 *.sf2 binary
+*.omp binary
 *.xiz binary
 *.fxp binary
 *.wav binary
