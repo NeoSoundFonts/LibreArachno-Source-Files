@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<!DOCTYPE lmms-project>
+<lmms-project type="instrumenttracksettings" creator="LMMS" version="1.0" creatorversion="1.2.2">
+  <head/>
+  <instrumenttracksettings type="0" solo="0" muted="0" name="Watsyn">
+    <instrumenttrack pitchrange="1" usemasterpitch="1" pan="0" pitch="0" basenote="57" fxch="0" vol="100">
+      <instrument name="watsyn">
+        <watsyn a1_vol="63.2" envDec="0" b2_ltune="0" envHold="0" b1_ltune="0" b1_mult="8" a2_pan="0" envAtt_numerator="4" b2_wave="AAAAAGHu6Tz11Wk980GvPVR06T38uhE+X50uPk1bSz7E7mc+6CiCPkE/kD56N54+qg6sPu/BuT5qTsc+SLHUPrvn4T4F7+4+a8T7PqAyBD9wZwo/Wn8QPxh5Fj9rUxw/Gw0iP/WkJz/NGS0/gGoyP/OVNz8Rmzw/znhBPyYuRj8buko/vhtPPyBSUz9kXFc/sTlbPzjpXj8yamI/57tlP6XdaD/Dzms/pI5uP7cccT9xeHM/VaF1P/CWdz/ZWHk/seZ6PyZAfD/wZH0/0lR+P5kPfz8elX8/RuV/PwAAgD9G5X8/HpV/P5kPfz/RVH4/8GR9PyZAfD+x5no/2Fh5P/CWdz9VoXU/cHhzP7YccT+kjm4/ws5rP6TdaD/nu2U/MmpiPzXpXj+vOVs/ZVxXPyFSUz+9G08/HLpKPyYuRj/MeEE/EJs8P/KVNz9/ajI/yxktP/OkJz8ZDSI/alMcPxd5Fj9ZfxA/b2cKP58yBD9qxPs+/e7uPrTn4T5HsdQ+ak7HPu/BuT6rDqw+ezeePjo/kD7iKII+uu5nPkJbSz5VnS4+8roRPmN06T3jQa892NVpPS3u6Twuvbuzi+7pvAfWab37Qa+9WnTpvf66Eb5gnS6+XVtLvtXuZ77vKIK+Rz+QvoE3nr6xDqy+9cG5vm9Ox75MsdS+uefhvgLv7r5oxPu+njIEv25nCr9ffxC/HXkWv3BTHL8cDSK/9aQnv80ZLb+BajK/9JU3vxKbPL/OeEG/KC5Gvxu6Sr+6G0+/IFJTv2ZcV7+0OVu/OelevzZqYr/pu2W/pN1ov8POa7+kjm6/txxxv3B4c79VoXW/75Z3v9lYeb+w5nq/JkB8v/Fkfb/SVH6/mQ9/vx6Vf79G5X+/AACAv0blf78elX+/mA9/v9JUfr/wZH2/JkB8v7Dmer/XWHm/75Z3v1Ohdb9weHO/tBxxv6OObr/Azmu/pN1ov+i7Zb8yamK/OOlev7A5W79mXFe/G1JTv7obT78Wukq/Ii5Gv854Qb8Pmzy/85U3v35qMr/NGS2/8qQnvxsNIr9pUxy/GXkWv1h/EL9qZwq/njIEv2HE+74C7+6+sefhvkSx1L5gTse+7MG5vqEOrL54N56+Nz+Qvucogr7T7me+TFtLvk+dLr7cuhG+N3TpvbhBr73B1Wm9fu3pvA==" a1_rtune="0" b1_pan="0" envAtt_denominator="4" b1_vol="69.6" a2_wave="72nIvr5Hv76RJba+kSW2vpEltr6RJba+kSW2vpEltr6+R7++vke/vr5Hv76+R7++vke/vmXgx74mp8S+6m3Bvq00vr5v+7q+MsK3vvSItL63T7G+eRauvjzdqr4ApKe+eJGOvhSGi76jbGy+o2xsvqNsbL6BEVS+ufpNvvDjR74oXI++KFyPvihcj74oXI++KFyPvihcj764HoW+uB6Fvrgehb6QwnW+8O5uvlAbaL6wR2G+0MxMvhauR75cj0K+onA9vgjXI74I1yO+aAMdvsgvFr4oXA++kML1vZDC9b1Q3YO9WgRXvdbCibw5ZF89lMO4PUlM3T3ZLhM+/4krPsigMT7r+0k+SUBcPklAXD4SV2I+221oPqSEbj5/ZIA+f2SAPn9kgD5/ZIA+f2SAPn9kgD5/ZIA+f2SAPuRvgz5Je4Y+26iSPtuokj7bqJI+26iSPtuokj7bqJI+26iSPtuokj7bqJI+QLSVPqS/mD5t1p4+0uGhPjftpD57oLI+kjG3PqjCuz7sdck+GZjSPqzF3j4R0eE+QPPqPggK8T5cafk+6LH7PnX6/T4ypwE/5CwDP5eyBD+XsgQ/l7IEP5eyBD+XsgQ/l7IEP9Eg9z6k/u0+l7IEP5eyBD93Wg8/KeAQPwiIGz8gGSA/N6okP2TMLT97XTI/ku42P6l/Oz+S7jY/e10yP2TMLT9OOyk/N6okPzeqJD83qiQ/ku42P1sFPT8Niz4/oLhKP1I+TD8bVVI/MuZWPzLmVj8y5lY/SXdbP2AIYD93mWQ/jSppP40qaT+7THI/u0xyP9Hddj/obns/hutRvz4KV78+Cle/PgpXvz4KV7+G61G/hutRv4brUb+G61G/nTZQv7WBTr/MzEy/FK5HvxSuR78Urke/FK5HvxSuR78Urke/ZmZGv7geRb8K10O/XI9Cv6RwPb+kcD2/9ig8v0jhOr+amTm/7FE4v+xROL9LfjG/Y8kvv3oULr+SXyy/qqoqv8L1KL/C9Si/wvUov8L1KL8K1yO/CtcjvwrXI78iIiK/Om0gv1K4Hr9SuB6/Urgev2oDHb+CThu/mpkZv5qZGb+amRm/mpkZv+J6FL/iehS/4noUv+J6FL/iehS/4noUvyhcD78oXA+/KFwPv3A9Cr9wPQq/cD0Kv7geBb+4HgW/kML1vg==" a2_vol="64.8" b2_pan="0" b2_rtune="0" a2_ltune="0" envDec_denominator="4" xtalk="0" envDec_syncmode="0" envDec_numerator="4" a1_mult="4" a2_mult="8" envHold_numerator="4" envHold_syncmode="0" envAtt_syncmode="0" b2_vol="0" b2_mult="8" a1_ltune="0" b1_wave="KFwPvpDC9b0A1yO9CNejPQzXIz64HoU+7FG4Pj4K1z4ehes+kML1PgAAAD8AAAA/AAAAPx6F6z6uR+E+zMzMPuxRuD7sUbg+G+i0Pkt+sT56FK4+ehSuPszMzD4ehes+uB4FP3A9Cj9wPQo/4noUv+J6FL+QwvW+mZkZvwnXI796FC6/XI9CvxSuR7/MzEy/PgpXvz4KV79cj0K/Ctcjv1K4Hr/hehS/KVwPvwAAAL8gheu+KFwPvyCF677MzMy+7FG4vpiZmb5ERAQ/kML1Ph+F6z6uR+E+PgrXPgrXoz6QwnU+sEdhvpiZmb6YmZm+mJmZvpiZmb6QwnW+CNcjvhDXo70N16M9ksL1PQzXIz7C9Si/wvUov3oULr96FC6/NDMzv+xROL+kcD2/pHA9v6RwPb+kcD2/pHA9v6RwPb80MzO/wvUov5qZGb8oXA+/uB4Fv5DC9b6wR+G+XI/CvuxRuL7sUbi+XI/CvrBH4b4AAAC/cD0KvyhcD78oXA+/AAAAv7BH4b58FK6+KFyPvpDCdb6QwnW+mJmZvnwUrr64HoW+6FE4vpDC9b2AwnW9CNejPexROD64HoU+rkfhPq5H4T6uR+E+rkfhPt7d3T4OdNo+KlzPPhWuxz4AAMA+q6qqPmkDnT7ntIE+TRtoPutROD4J1yM+KFwPPpDCdT0A16M8DNcjPgrXoz5cj8I+rkfhPq5H4T6LJb8+S36xPskvlj6JiIg+bqBTPkt+MT4oXA8+i8J1PQbXIz0A16M8ANcjvRDXo72QwvW9kML1vQDXo7yQwnU9DNcjPk4baD4t+UU+DNcjPhTXozz21qO8gMJ1vehROL4oXI++XI/CvrgeBb/iehS/wvUov1K4Hr9Bpw2/odMGvwAAAL+MJb++TH6xvitcj76TwnW+0MxMvpDC9b2AwnW9kMJ1PQzXIz7MzEw+zMxMPkt+MT7JLxY+kMJ1PQDXI70oXA++0MxMvuxROD7sUTg+zMxMPiz5RT6MJT8+7FE4PmsDHT7JLxY+KFwPPtDMzD0I16M9ANejPAAAAAAA16O8ENejvdDMzL2QwvW9KFwPvgjXI74I1yO+CNcjvgjXI74I1yO+CNcjvgjXI74I1yO+sEdhvskvFr/5xRK/cD0Kv7BH4b5cj8K+fBSuvihcj76QwnW+6FE4vg==" b1_rtune="0" envHold_denominator="4" abmix="0" amod="0" envAmt="0" a1_wave="rkdhP65HYT+uR2E/rkdhP6RwPT+kcD0/XI9CP1yPQj9EREQ/LPlFPxSuRz8Urkc/FK5HP/xiST/lF0s/zcxMP83MTD/NzEw/zcxMP4XrUT+F61E/hetRP4XrUT+F61E/hetRP4XrUT9cj0I/XI9CP1yPQj9cj0I/XI9CP1yPQj9cj0I/XI9CP1yPQj9cj0I/XI9CP1K4Hj9SuB4/UrgePwAAID+uRyE/XI8iPwrXIz8K1yM/CtcjP/KLJT/aQCc/wvUoP3sULj97FC4/exQuP3sULj97FC4/exQuP5NfLD+qqio/wvUoP8L1KD8K1yM/CtcjPwrXIz8K1yM/CtcjPwrXIz8K1yM/CtcjPwrXIz/C9Sg/wvUoP8L1KD9jyS8/S34xPzMzMz8zMzM/7FE4P9QGOj96FC6/ehQuv3oULr96FC6/ehQuvzQzM7/sUTi/7FE4v+xROL+kcD2/jCU/v3TaQL8Urke/FK5Hv8zMTL/MzEy/hutRvz4KV7/2KFy/rkdhv2ZmZr8ehWu/Bzptv+/ubr+QwnW/kMJ1v5DCdb+QwnW/kMJ1v5DCdb+QwnW/2KNwvx6Fa78ehWu/HoVrv2ZmZr9mZma/9ihcv/YoXL/2KFy/PgpXv4brUb+G61G/zMxMv8zMTL/kF0u//GJJv1yPQr+kcD2/pHA9vz4KN7+QwjW/4no0vzQzM7/MzCy/HoUrv3A9Kr/C9Si/Ctcjv7geBb8AAAC/AAAAvwAAAL8AAAC/ENejvRDXo70Q16O9pw10P4/CdT93d3c/YCx5P0jhej8AAIA/AACAPwAAgD+F61E/zcxMP83MTD/NzEw/zcxMP83MTD/NzEw/zcxMP83MTD/NzEw/zcxMP83MTD/NzEw/zcxMP83MTD/NzEw/zcxMP83MTD/NzEw/zcxMP83MTD/NzEw/tYFOP502UD+F61E/hetRP22gUz9WVVU/7FFYP5qZWT9I4Vo/9ihcP/YoXD/2KFw/9ihcP/YoXD/2KFw/9ihcP/YoXD/2KFw/9ihcP/YoXD/2KFw/9ihcP/YoXD/2KFw/9ihcP/YoXD/2KFw/9ihcP/YoXD/2KFw/9ihcP/YoXD/2KFw/9ihcP/YoXD/2KFw/9ihcP/YoXD/2KFw/9ihcP/YoXD/2KFw/9ihcP/YoXD/2KFw/9ihcPw==" a1_pan="0" envAtt="0" bmod="0" a2_rtune="0"/>
+      </instrument>
+      <eldata fres="0.86" fwet="1" fcut="237" ftype="0">
+        <elvol hold="0" pdel="0" dec="1.18" rel="0.05" att="0" lpdel="0" lshp="0" x100="0" lspd_syncmode="0" lamt="0" amt="1" ctlenvamt="0" lspd_numerator="4" lspd_denominator="4" latt="0" userwavefile="" sustain="0.896" lspd="0.1"/>
+        <elcut hold="0" pdel="0" dec="0.212" rel="0.28" att="0" lpdel="0" lshp="0" x100="0" lspd_syncmode="0" lamt="0" amt="1" ctlenvamt="0" lspd_numerator="4" lspd_denominator="4" latt="0" userwavefile="" sustain="0.104" lspd="0.1"/>
+        <elres hold="0.5" pdel="0" dec="0.5" rel="0.1" att="0" lpdel="0" lshp="0" x100="0" lspd_syncmode="0" lamt="0" amt="0" ctlenvamt="0" lspd_numerator="4" lspd_denominator="4" latt="0" userwavefile="" sustain="0.5" lspd="0.1"/>
+      </eldata>
+      <chordcreator chord="0" chord-enabled="0" chordrange="1"/>
+      <arpeggiator arp="0" arpmiss="0" arptime_syncmode="0" arptime_denominator="4" arpdir="0" arprange="1" arptime_numerator="4" arpmode="0" arp-enabled="0" arpskip="0" arpcycle="0" arpgate="100" arptime="200"/>
+      <midiport outputprogram="1" fixedoutputnote="-1" fixedinputvelocity="-1" writable="0" outputcontroller="0" readable="0" inputcontroller="0" fixedoutputvelocity="-1" inputchannel="0" basevelocity="63" outputchannel="1"/>
+      <fxchain numofeffects="1" enabled="1">
+        <effect autoquit="1" on="1" wet="1" autoquit_syncmode="0" name="ladspaeffect" gate="0" autoquit_numerator="4" autoquit_denominator="4">
+          <ladspacontrols ports="10">
+            <port02 data="0"/>
+            <port03 data="0"/>
+            <port04 data="0"/>
+            <port05 data="0"/>
+            <port06 data="0"/>
+            <port07 data="0"/>
+            <port08 data="0"/>
+            <port09 data="0"/>
+            <port010 data="7.11"/>
+            <port011 data="8.64"/>
+          </ladspacontrols>
+          <key>
+            <attribute name="file" value="caps"/>
+            <attribute name="plugin" value="Eq2x2"/>
+          </key>
+        </effect>
+      </fxchain>
+    </instrumenttrack>
+  </instrumenttracksettings>
+</lmms-project>
